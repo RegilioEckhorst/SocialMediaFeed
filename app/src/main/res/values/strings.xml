@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social media feed</string>
+    <string name="like"><u>Like</u></string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="post">Post</string>
+    <string name="newfeed">New feed</string>
+    <string name="name"><b>First name</b></string>
+    <string name="sur_name"><b>Surname</b></string>
+    <string name="dialog_text">"What's up?</string>
+</resources>
